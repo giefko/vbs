@@ -1,2 +1,2 @@
 # vbs
-vbs small projects i have find intresting.
+Small interesting vbscript projects .
